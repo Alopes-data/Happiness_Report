@@ -106,13 +106,15 @@ We will finish off with preparing out data for linear regression models which we
 review fitted values of regression model and review their coefficients
 
 ![image](https://user-images.githubusercontent.com/58121111/122607576-d08c2400-d048-11eb-9b86-f2da7f7abad6.png)
- 
+
+
 #### Full summary Output.
+
 
 ![image](https://user-images.githubusercontent.com/58121111/122607599-d71a9b80-d048-11eb-94ba-bc750d6bdbb0.png)
 
  
-#####  Review if the Mean of weights equal to mean of fitted values?
+####  Review if the Mean of weights equal to mean of fitted values?
  
  ![image](https://user-images.githubusercontent.com/58121111/122607613-db46b900-d048-11eb-9695-46a8f254daf3.png)
 
